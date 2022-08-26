@@ -23,6 +23,3 @@ I use and rice Arch Linux and do competitive programming. My current goal is to 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhlimon&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
----
-[![](https://visitcount.itsvg.in/api?id=sheikhlimon&icon=0&color=0)](https://visitcount.itsvg.in)
