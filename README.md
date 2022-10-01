@@ -1,5 +1,5 @@
 ### <div align="center">Hi, I'm Sheikh Limon
-I'm a Junior Software Engineer & Competitive Programmer. Skilled in Front End Development | MERN Stack. </br>
+I'm a Junior Software Engineer && Competitive Programmer. Skilled in Front End Development | MERN Stack. </br>
 I use and rice Arch Linux and do competitive programming. My current goal is to improve my problem-solving skills.</div> 
 
 - 🌱 I’m currently learning Data Structures & Algorithm  
