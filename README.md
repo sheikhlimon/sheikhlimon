@@ -1,5 +1,5 @@
 ### <div align="center">Hi, I'm Sheikh Limon
-I'm a Software Engineer. Skilled in Front End Development | MERN Stack, C/C++, PHP, Python & JavaScript.</br>
+I'm a Software Engineer. Skilled in Front End Development | MERN Stack, C/C++, Python & JavaScript.</br>
 I use and rice Arch Linux and do competitive programming. My current goal is to improve my problem-solving skills.</div> 
 
 - 🌱 I’m currently learning Data Structures & Algorithm  
