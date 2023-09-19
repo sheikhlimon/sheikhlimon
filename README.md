@@ -1,4 +1,4 @@
-### <div align="center"> Hey Limon here, I'm a self-taught programmer.
+Hey Limon here, I'm a self-taught programmer.
 
 <div>🔹Skilled in Front End Development | MERN stack, C/C++, Python & JavaScript. </div>
 <div>🔹Exploring Data Structures & Algorithm.</div>
