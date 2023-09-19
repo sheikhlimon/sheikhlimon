@@ -1,5 +1,4 @@
-### <div align="center">Hi, I'm Sheikh Limon
-Hey Limon here, I'm a self-taught programmer.
+### <div align="center"> Hey Limon here, I'm a self-taught programmer.
 
 <div>🔹Skilled in Front End Development | MERN stack, C/C++, Python & JavaScript. </div>
 <div>🔹Exploring Data Structures & Algorithm.</div>
