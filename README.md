@@ -1,5 +1,8 @@
 ### <div align="center">Hi, I'm Sheikh Limon
-I'm currently learning to code
+Hey Limon here, I'm a self-taught programmer.
+
+🔹Skilled in Front End Development | MERN stack, C/C++, Python & JavaScript.
+🔹Exploring Data Structures & Algorithm.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/limon303) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikhlimon) 
