@@ -22,4 +22,4 @@ I’m also looking forward to exploring modern tools like **Tailwind CSS**, **sh
 
 ## 🛠️ Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhlimon&layout=compact&hide=html)
