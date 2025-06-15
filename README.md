@@ -1,5 +1,3 @@
-# 👋 Hi, I'm [Your Name]
-
 I'm a self-taught full stack developer in progress, learning by building.  
 Currently focused on **React**, **TypeScript**, and **Next.js** on the frontend,  
 and building backend skills with **Node.js**, **PostgreSQL**, and **MongoDB**.
@@ -21,15 +19,6 @@ I’m also looking forward to exploring modern tools like **Tailwind CSS**, **sh
 <!-- Styling & Deployment -->
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📫 Connect with me
-
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
 
 ## 🛠️ Languages and Tools
 
