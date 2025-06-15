@@ -1,19 +1,11 @@
-# 👋 Hi, I'm Sheikh Limon
+👋 Hi, I'm Sheikh Limon — a self-taught full stack developer focused on:
 
-I'm a self-taught full stack developer.  
-Currently focused on sharpening my frontend skills in **React**, **TypeScript**, and **Next.js**,  
-while developing backend foundations with **Node.js**, **PostgreSQL** and **MongoDB**.
+Frontend: React ⚛️, TypeScript 🟦, Next.js 🚀
 
-Also actively enhancing problem-solving skills through Data Structures & Algorithms (DSA).
+Backend: Node.js 🟢, MongoDB 🍃, PostgreSQL 🐘
 
-🚀 Next-level goals include working with modern tools to improve development and deployment:  
-**Tailwind CSS**, **Supabase**, **shadcn/ui**, and **Vercel**.
+Problem Solving: Data Structures & Algorithms 📚
 
----
+🚀 Next-level goals: Tailwind CSS 🎨, Supabase 🔥, shadcn/ui 🧩, Vercel 🌐
 
-## 🎯 Future Goals
-
--   Docker (containerize apps for consistent environments)
--   GitHub Actions (automate testing and deployment)
--   Advanced backend frameworks like Fastify or NestJS
--   More in-depth DevOps & cloud skills AWS
+🎯 Future goals: Docker 🐳, GitHub Actions ⚙️, GraphQL 🕸️, AWS ☁️
