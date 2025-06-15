@@ -1,11 +1,11 @@
-👋 Hi, I'm Sheikh Limon — a self-taught full stack developer focused on:
+# 👋 Hi, I'm Sheikh Limon
 
-Frontend: React ⚛️, TypeScript 🟦, Next.js 🚀
+A self-taught full stack developer focused on:
 
-Backend: Node.js 🟢, MongoDB 🍃, PostgreSQL 🐘
+- **Frontend:** React ⚛️, TypeScript 🟦, Next.js 🚀  
+- **Backend:** Node.js 🟢, MongoDB 🍃, PostgreSQL 🐘  
+- **Problem Solving:** Data Structures & Algorithms 📚  
 
-Problem Solving: Data Structures & Algorithms 📚
-
-🚀 Next-level goals: Tailwind CSS 🎨, Supabase 🔥, shadcn/ui 🧩, Vercel 🌐
+🚀 Next-level goals: Tailwind CSS 🎨, Supabase 🔥, shadcn/ui 🧩, Vercel 🌐  
 
 🎯 Future goals: Docker 🐳, GitHub Actions ⚙️, GraphQL 🕸️, AWS ☁️
