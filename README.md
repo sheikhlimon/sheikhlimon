@@ -1,11 +1,18 @@
-# 👋 Hi, I'm Sheikh Limon
+<h1 align="center">Hi 👋, I'm Limon</h1>
+<h4 align="center">full-stack web developer specializing in backend development</h4>
 
-A self-taught full stack developer focused on:
+<p>Looking to work as a software developer.</p>
 
-- **Frontend:** React ⚛️, TypeScript 🟦, Next.js 🚀  
-- **Backend:** Node.js 🟢, MongoDB 🍃, PostgreSQL 🐘  
-- **Problem Solving:** Data Structures & Algorithms 📚  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhlimon&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
-🚀 Next-level goals: Tailwind CSS 🎨, Supabase 🔥, shadcn/ui 🧩, Vercel 🌐  
+- Frontend: React, TypeScript, Next.js
 
-🎯 Future goals: Docker 🐳, GitHub Actions ⚙️, GraphQL 🕸️, AWS ☁️
+- Backend: Node.js, MongoDB, PostgreSQL
+  
+- Problem Solving: Data Structures & Algorithms
+
+- [visit me](https://sheikh-limon.netlify.app)
+
+- you can reach me at **sheikhlimon404@gmail.com**
+
+i use neovim & arch btw
