@@ -2,16 +2,16 @@
 <h4 align="center">full-stack web developer specializing in backend development</h4>
 
 <p align="center">
-  🚀 Passionate about building scalable backend systems, writing clean code, and solving real-world problems.
+  Passionate about building scalable backend systems, writing clean code, and solving real-world problems.
 </p>
 
-- 🔭 Open to **full-time software developer roles**
+- Open to full-time software developer roles
 
-- **Frontend**: React, TypeScript, Next.js
+- Frontend: React, TypeScript, Next.js
 
-- **Backend**: Node.js, MongoDB, PostgreSQL
+- Backend: Node.js, MongoDB, PostgreSQL
   
-- Practicing **data structures and algorithms** for interviews
+- Practicing data structures and algorithms for interviews
 
 - you can reach me at **sheikhlimon404@gmail.com**
 
