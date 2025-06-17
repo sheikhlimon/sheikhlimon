@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Limon</h1>
 <h4 align="center">full-stack web developer specializing in backend development</h4>
 
-<p>Looking to work as a software developer.</p>
+<p align="center">
+  🚀 Passionate about building scalable backend systems, writing clean code, and solving real-world problems.
+</p>
 
-- Frontend: React, TypeScript, Next.js
+- 🔭 Open to **full-time software developer roles**
 
-- Backend: Node.js, MongoDB, PostgreSQL
+- **Frontend**: React, TypeScript, Next.js
+
+- **Backend**: Node.js, MongoDB, PostgreSQL
   
-- Problem Solving: Data Structures & Algorithms
+- Practicing **data structures and algorithms** for interviews
 
 - you can reach me at **sheikhlimon404@gmail.com**
 
