@@ -15,9 +15,12 @@
 
 i use neovim & arch btw 
 <h3 align="left">contact me</h3>
+<a href="https://discord.com/users/limon303" target="_blank">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="32" height="32">
+</a>
+<a href="https://www.linkedin.com/in/sheikhlimon" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32">
+</a>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/limon303)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikhlimon)
 
 
