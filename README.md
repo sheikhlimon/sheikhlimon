@@ -16,3 +16,7 @@
 - you can reach me at **sheikhlimon404@gmail.com**
 
 i use neovim & arch btw
+
+contact me : 
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/limon303)
