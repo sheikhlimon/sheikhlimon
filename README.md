@@ -5,8 +5,6 @@
  Open to full-time software developer roles
 </p>
 
----
-
 - Frontend: React, TypeScript, Next.js
 
 - Backend: Node.js, MongoDB, PostgreSQL
