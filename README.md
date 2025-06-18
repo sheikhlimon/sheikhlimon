@@ -7,7 +7,7 @@ Open to full-time software developer roles
 
 - Frontend: React, TypeScript, Next.js
 
-- Backend: Node.js, MongoDB, PostgreSQL
+- Backend: Node.js, Express, MongoDB, PostgreSQL
   
 - Practicing data structures and algorithms for interviews
 
