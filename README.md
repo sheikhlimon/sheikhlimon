@@ -11,7 +11,7 @@ Open to full-time software developer roles
   
 - Practicing data structures and algorithms for interviews
 
-- [Fix Sound Issues on Arch Linux (ALC285)](https://medium.com/@sheikhlimon/fix-sound-issues-on-arch-linux-alc285-123456789abc)
+- [Wrote a quick guide to fix sound problems on Arch Linux (ALC285) — crackling, headset issues, and more](https://medium.com/@sheikhlimon/fix-audio-issues-on-arch-linux-alc285-crackling-headset-not-working-4338007d6a86)
   
 - you can reach me at **sheikhlimon404@gmail.com**
 
