@@ -11,6 +11,8 @@ Open to full-time software developer roles
   
 - Practicing data structures and algorithms for interviews
 
+- [Fix Sound Issues on Arch Linux (ALC285)](https://medium.com/@sheikhlimon/fix-sound-issues-on-arch-linux-alc285-123456789abc)
+  
 - you can reach me at **sheikhlimon404@gmail.com**
 
 i use neovim & arch btw 
