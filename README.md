@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Limon, self-taught full-stack web developer specializing in backend development</h1>
+Hi, I'm Limon, self-taught full-stack web developer specializing in backend development
 
 - Open to full-time software developer roles
   
