@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Limon</h1>
-<h4 align="center">full-stack web developer specializing in backend development</h4>
+<h1 align="left">Hi 👋, I'm Limon, self-taught full-stack web developer specializing in backend development</h1>
 
-<p align="left">
-Open to full-time software developer roles
-</p>
-
-- Frontend: React, TypeScript, Next.js
-
-- Backend: Node.js, Express, MongoDB, PostgreSQL
+- Open to full-time software developer roles
   
 - Practicing data structures and algorithms for interviews
 
