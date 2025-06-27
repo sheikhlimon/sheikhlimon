@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Limon</h1>
-** full-stack web developer specializing in backend development **
+
+**full-stack web developer specializing in backend development**
 
 - Open to full-time software developer roles
 
