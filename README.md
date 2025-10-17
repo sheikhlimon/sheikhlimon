@@ -1,16 +1,20 @@
-<h3 align="left">Hi there 👋</h3>
+### Hi there 👋
 
-<br>
-
-<p align="left">“Hmm, empty array... what’s inside it? strings? objects? bananas?” 🍌 </p>
+#### _“Hmm, empty array... what’s inside it? strings? objects? bananas?” 🍌_
 
 <p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzbGYxMzF5aHVreDc1dXBodjN6eDd4dTRidWRlaTdwZ3ZyY3ZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bh4jzePjmd9iE/giphy.gif" alt="Animated banana GIF: empty array joke">
+  <img src="banana-minions.gif" alt="Animated banana GIF: empty array joke">
 </p>
 
-<br>
-<p align="left">
+<p>
   <img src="under-construction.gif" alt="Under Construction" />
+</p>
+
+Check out my latest app [coming soon!](#)&nbsp;&nbsp;<img src="cat-typing.gif" width="40" />&nbsp;&nbsp;
+
+and my [latest blog post](https://medium.com/@sheikhlimon) 📝
+
+<br>
 
 <p align="left">
   <!-- Top Languages Card -->
