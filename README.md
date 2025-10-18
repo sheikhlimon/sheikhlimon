@@ -10,7 +10,7 @@
   <img src="under-construction.gif" alt="Under Construction" />
 </p>
 
-Check out my latest app [coming soon!](#)&nbsp;&nbsp;<img src="cat-typing.gif" width="40" />&nbsp;&nbsp;
+check out my latest app: [coming soon!](#)&nbsp;&nbsp;<img src="cat-typing.gif" width="40" />&nbsp;&nbsp;
 
 and my [latest blog post](https://medium.com/@sheikhlimon) 📝
 
