@@ -1,9 +1,9 @@
-### Hey there! I’m Limon, a self-taught coder.
+Hey there! I’m Limon, a mostly self-taught coder. 💻
 
-#### _“Hmm, empty array... what’s inside it? strings? objects? bananas?” 🍌_
+_“Hmm, empty array... what’s inside it? strings? objects? bananas?” 🍌_
 
 <p align="left">
-  <img src="banana-minions.gif" alt="Animated banana GIF: empty array joke">
+  <img src="banana-minions.gif" alt="Animated banana GIF: empty array joke" width="300">
 </p>
 
 <p>
