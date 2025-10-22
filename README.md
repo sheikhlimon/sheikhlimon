@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I’m Limon, a self-taught coder.
 
 #### _“Hmm, empty array... what’s inside it? strings? objects? bananas?” 🍌_
 
