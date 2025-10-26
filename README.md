@@ -2,10 +2,6 @@
 
 **A self-taught coder &nbsp;&nbsp;<img src="cat-typing.gif" width="65" />&nbsp;&nbsp; and mostly doing open source** &nbsp;&nbsp;<img src="unicorn.gif" width="70" />&nbsp;&nbsp;
 
-**Part-time philosopher** 🎭 | **Full-time enthusiast** 🚀
-
-**Interrogating ChatGPT💬 about my code, one “why” at a time** 👾🔮
-
 <br>
 
 > _“Hmm, empty array... what’s inside it? strings? objects? bananas?”_ 🍌
