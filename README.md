@@ -1,6 +1,6 @@
 ### Hi, I'm Limon 👋
 
-**A self-taught coder &nbsp;&nbsp;<img src="cat-typing.gif" width="70" />&nbsp;&nbsp; and mostly doing open source** &nbsp;&nbsp;<img src="unicorn.gif" width="70" />&nbsp;&nbsp;
+**A self-taught coder &nbsp;&nbsp;<img src="cat-typing.gif" width="65" />&nbsp;&nbsp; and mostly doing open source** &nbsp;&nbsp;<img src="unicorn.gif" width="70" />&nbsp;&nbsp;
 
 **Part-time philosopher** 🎭 | **Full-time enthusiast** 🚀
 
