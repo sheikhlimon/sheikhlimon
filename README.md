@@ -1,16 +1,14 @@
 ### Hi 👋, I'm Limon
 
+<br>
+
 **Self-taught coder &nbsp;&nbsp;<img src="cat-typing.gif" width="65" />&nbsp;&nbsp; mostly doing open source** &nbsp;&nbsp;<img src="unicorn.gif" width="70" />&nbsp;&nbsp;
 
 <br>
 
-> _“Hmm, empty array... what’s inside it? strings? objects? bananas?”_ 🍌
-
-<img src="banana-minions.gif" width="250">
+> **Fun fact:** i use arch and neovim btw
 
 <br>
-
-<img src="under-construction.gif" />
 
 Check out my latest app: [coming soon!](#) &nbsp;&nbsp;<img src="hot.gif" />&nbsp;&nbsp;
 
@@ -27,5 +25,3 @@ and my [latest blog post](https://medium.com/@sheikhlimon) 📚
 
 [![PRs Open Source](https://img.shields.io/badge/PRs-Open%20Source-brightgreen)](#)
 [![Full Stack Focused](https://img.shields.io/badge/Full%20Stack-Focused-blue)](#)
-
-> **Fun fact:** i use arch and neovim btw
