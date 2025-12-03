@@ -12,7 +12,7 @@
 
 Check out my latest app: [coming soon!](#) &nbsp;&nbsp;<img src="hot.gif" />&nbsp;&nbsp;
 
-and my [latest blog post](https://medium.com/@sheikhlimon) 📚
+and my [latest blog post](https://dev.to/sheikhlimon) 📚
 
 <br>
 
