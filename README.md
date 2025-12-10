@@ -10,7 +10,7 @@
 
 <br>
 
-Check out my latest app: [coming soon!](#) &nbsp;&nbsp;<img src="hot.gif" />&nbsp;&nbsp;
+Check out my latest app: [Gesture Share](https://gesture-share.vercel.app) &nbsp;&nbsp;<img src="hot.gif" />&nbsp;&nbsp;
 
 and my [latest blog post](https://dev.to/sheikhlimon) 📚
 
