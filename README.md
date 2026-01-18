@@ -6,21 +6,15 @@
 
 <br>
 
-**Full-stack engineer** building systems, dev tooling, and automation.
+Code over credentials.
 
-Mostly open source. Focused on reliability and real-world use.
+Here’s the [work logs](https://sheikhlimon.vercel.app/logs)
 
-_Open to interesting problems and opportunities._
+Actively contributing in open source to increase my odds of getting hired.
 
 <br>
 
 > **Fun fact:** I use arch and neovim btw
-
-<br>
-
-Check out my latest app: [Gesture Share](https://gesture-share.vercel.app) &nbsp;&nbsp;<img src="hot.gif" />&nbsp;&nbsp;
-
-and my [dev logs](https://sheikhlimon.vercel.app/logs) &nbsp;&nbsp;<img src="hot.gif" />&nbsp;&nbsp;
 
 <br>
 
