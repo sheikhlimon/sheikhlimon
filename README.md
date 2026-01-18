@@ -12,7 +12,7 @@
 
 Check out my latest app: [Gesture Share](https://gesture-share.vercel.app) &nbsp;&nbsp;<img src="hot.gif" />&nbsp;&nbsp;
 
-and my [latest blog post](https://dev.to/sheikhlimon) 📚
+and my [dev logs](https://sheikhlimon.vercel.app/logs) &nbsp;&nbsp;<img src="hot.gif" />&nbsp;&nbsp;
 
 <br>
 
