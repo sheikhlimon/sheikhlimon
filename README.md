@@ -2,11 +2,19 @@
 
 <br>
 
-**Self-taught coder &nbsp;&nbsp;<img src="cat-typing.gif" width="65" />&nbsp;&nbsp; mostly doing open source** &nbsp;&nbsp;<img src="unicorn.gif" width="70" />&nbsp;&nbsp;
+**I just code… &nbsp;&nbsp;<img src="cat-typing.gif" width="65" />&nbsp;&nbsp; with AI as my co-pilot** &nbsp;&nbsp;<img src="unicorn.gif" width="70" />&nbsp;&nbsp;
 
 <br>
 
-> **Fun fact:** i use arch and neovim btw
+**Full-stack engineer** building systems, dev tooling, and automation.
+
+Mostly open source. Focused on reliability and real-world use.
+
+_Open to interesting problems and opportunities._
+
+<br>
+
+> **Fun fact:** I use arch and neovim btw
 
 <br>
 
