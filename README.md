@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Limon
 
-Backend-focused full-stack engineer with a bias toward reliable, boring systems.
+#### Backend-focused Full-Stack Engineer with a bias toward reliable, boring systems.
 
 ### What I do
 
@@ -10,7 +10,7 @@ Backend-focused full-stack engineer with a bias toward reliable, boring systems.
 
 I document some of my work and thinking through [engineering logs](https://sheikhlimon.vercel.app/logs) and a small set of [selected projects](https://sheikhlimon.vercel.app/projects).
 
-Code over credentials. Arch + Neovim user.
+Code over credentials. I use Arch and Neovim btw.
 
 <br>
 
