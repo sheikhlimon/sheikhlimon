@@ -1,16 +1,18 @@
 ### Hi 👋, I'm Limon
 
-#### Backend-focused Full-Stack Engineer with a bias toward reliable, boring systems.
+**I ship and maintain production-grade features through open-source software.**
 
 ### What I do
 
-- Contribute to open-source production systems
-- Build backend-driven projects that integrate external APIs
-- Focus on reliability, defensive programming, and maintainable code
+- Contribute to open-source projects
+- Build and maintain backend systems, frontend features, and developer tooling
+- Explore agent-based AI workflows through hands-on contributions to their tooling
 
-I document some of my work and thinking through [engineering logs](https://sheikhlimon.vercel.app/logs) and a small set of [selected projects](https://sheikhlimon.vercel.app/projects).
+<br>
 
-Code over credentials. I use Arch and Neovim btw.
+I document my work and thinking through [engineering logs](https://sheikhlimon.vercel.app/logs) and a curated set of [projects](https://sheikhlimon.vercel.app/projects).
+
+> Code over credentials and Arch + Neovim btw
 
 <br>
 
