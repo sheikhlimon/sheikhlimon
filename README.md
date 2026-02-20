@@ -13,13 +13,7 @@
 
 I document my work and thinking through **[engineering logs](https://sheikhlimon.vercel.app/logs)** and a curated set of **[projects](https://sheikhlimon.vercel.app/projects)**
 
-### 💻 Stack
+### 📜 Recent Activity
 
-- **OS:** Omarchy (btw)
-- **Editor:** Neovim
-- **Core:** Javascript/Typescript (Nodejs), React, CLI tooling
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps:** Linux, Docker, Bash/Shell, CI/CD, GitHub Actions
-
-<a href="https://github.com/sheikhlimon/#gh-dark-mode-only"><img src="https://github.com/sheikhlimon/github-stats/raw/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://github.com/sheikhlimon/github-stats/raw/master/generated/languages.svg#gh-dark-mode-only" /></a>
-<a href="https://github.com/sheikhlimon/#gh-light-mode-only"><img src="https://github.com/sheikhlimon/github-stats/raw/master/generated/overview.svg#gh-light-mode-only" /><img src="https://github.com/sheikhlimon/github-stats/raw/master/generated/languages.svg#gh-light-mode-only" /></a>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
