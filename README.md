@@ -4,9 +4,9 @@
 
 ### 🛠 What I Do
 
-- **Systems Engineering:** Contributing to the goose ecosystem. I focus on tool-use reliability and environment stability, using AI to automate the "boring" parts of engineering.
-- **Dogfooding:** I use Goose to build Goose. I focus on context-shaping to ensure AI agents operate predictably within the Linux process model.
-- **Ecosystem Maintenance:** Bridging the gap between upstream development and downstream distribution. I maintain **[goose-desktop](https://aur.archlinux.org/packages/goose-desktop)** and **[goose-desktop-bin](https://aur.archlinux.org/packages/goose-desktop-bin)** AUR packages.
+- **Systems Engineering:** Contributing to the goose ecosystem. I focus on tool-use reliability and environment stability, using AI to automate the "boring" parts of engineering
+- **Dogfooding:** I use Goose to build Goose. I focus on context-shaping to ensure AI agents operate predictably within the Linux process model
+- **Ecosystem Maintenance:** Bridging the gap between upstream development and downstream distribution. I maintain **[goose-desktop](https://aur.archlinux.org/packages/goose-desktop)** and **[goose-desktop-bin](https://aur.archlinux.org/packages/goose-desktop-bin)** AUR packages
 - **Philosophy:** I believe in **code over credentials** and building systems that are "boring" because they actually work
 
 ### 📓 Engineering Logs & Projects
