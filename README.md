@@ -18,9 +18,9 @@ My work focuses on the **operational reliability** of the [goose ecosystem](http
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16379](https://github.com/podman-desktop/podman-desktop/pull/16379#issuecomment-3985241956) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-2. ❌ Closed PR [#16379](https://github.com/podman-desktop/podman-desktop/pull/16379) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-3. 🗣 Commented on [#16379](https://github.com/podman-desktop/podman-desktop/pull/16379#issuecomment-3985135837) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-4. 🗣 Commented on [#16379](https://github.com/podman-desktop/podman-desktop/pull/16379#issuecomment-3983747515) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-5. 💪 Opened PR [#16379](https://github.com/podman-desktop/podman-desktop/pull/16379) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+1. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-3985821156) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+2. 💪 Opened PR [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+3. 🗣 Commented on [#16379](https://github.com/podman-desktop/podman-desktop/pull/16379#issuecomment-3985241956) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+4. ❌ Closed PR [#16379](https://github.com/podman-desktop/podman-desktop/pull/16379) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+5. 🗣 Commented on [#16379](https://github.com/podman-desktop/podman-desktop/pull/16379#issuecomment-3985135837) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
 <!--END_SECTION:activity-->
