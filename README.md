@@ -18,9 +18,9 @@ My work focuses on the **operational reliability** of the [goose ecosystem](http
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. 🗣 Commented on [#21504](https://github.com/google-gemini/gemini-cli/issues/21504#issuecomment-4015202092) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-3. 🎉 Merged PR [#7614](https://github.com/block/goose/pull/7614) in [block/goose](https://github.com/block/goose)
-4. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4006485699) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-5. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-3998803290) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+1. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016657927) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+2. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016621797) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+3. 💪 Opened PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+4. 🗣 Commented on [#21504](https://github.com/google-gemini/gemini-cli/issues/21504#issuecomment-4015202092) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+5. 🎉 Merged PR [#7614](https://github.com/block/goose/pull/7614) in [block/goose](https://github.com/block/goose)
 <!--END_SECTION:activity-->
