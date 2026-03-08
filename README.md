@@ -1,26 +1,29 @@
-# Hi 👋, I'm Limon
+### Backend & AI Infrastructure • Systems Reliability • OSS Contributor
 
-**Full Stack Engineer | [Goose Community All-Star](https://github.com/block/goose/discussions/6852) (Jan 2026)**
+**[goose Community All-Star](https://github.com/block/goose/discussions/6852) ⭐ (Jan 2026) | Top contributor to goose (Block/AAIF)**
 
 [Blog](https://sheikhlimon.vercel.app/posts) • [Projects](https://sheikhlimon.vercel.app/projects)
 
-> I build the system infrastructure that allows AI agents to interact safely with the Unix process model. I focus on environment stability, CLI resilience, and open-source distribution.
+I contribute to AI agent infrastructure – fixing keychain race conditions, Linux headless credential failures, and cross-platform CLI stability issues in production codebases used by thousands.
 
-### 🛠 Open Source & Systems Impact
+Currently maintaining goose community AUR packages for Arch Linux: [`goose-desktop`](https://aur.archlinux.org/packages/goose-desktop) and [`goose-desktop-bin`](https://aur.archlinux.org/packages/goose-desktop-bin)
 
-My work focuses on the **operational reliability** of the [goose ecosystem](https://github.com/block/goose), ensuring that agentic tools integrate seamlessly with Linux and Unix-like environments.
+### 🛠 Selected merged PRs:
 
-- **Systems Engineering:** I contribute to core CLI resilience, focusing on environment variable management, cross-platform auth stability (WSL/Linux/Mac), and process isolation.
-- **Ecosystem Maintenance:** Maintainer of official-community Arch Linux (AUR) builds: [`goose-desktop`](https://aur.archlinux.org/packages/goose-desktop) | [`goose-desktop-bin`](https://aur.archlinux.org/packages/goose-desktop-bin)
-- **Problem Solver:** Recognized for proactive debugging in security and configuration layers (Keyring/Secret management).
+- [fix: macOS keychain infinite prompt loop](https://github.com/block/goose/pull/6620) – eliminated 20+ redundant auth dialogs per session
+- [feat: graceful fallback for keyring failures](https://github.com/block/goose/pull/5808) – Linux headless and SSH credential handling
+- [feat: add --output-format json flag to goose run command](https://github.com/block/goose/pull/5525) – structured CLI output for scripting and automation
+- [fix: prevent repeated 404 errors when accessing deleted sessions](https://github.com/block/goose/pull/5644) – session recovery flow
+
+[View all goose contributions →](https://github.com/block/goose/pulls?q=is%3Apr+is%3Aclosed+author%3Asheikhlimon)
 
 ### 📜 Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16327](https://github.com/podman-desktop/podman-desktop/issues/16327#issuecomment-3959594039) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-2. 🗣 Commented on [#16327](https://github.com/podman-desktop/podman-desktop/issues/16327#issuecomment-3959142068) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-3. 💪 Opened PR [#25829](https://github.com/openclaw/openclaw/pull/25829) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-4. 🗣 Commented on [#6059](https://github.com/block/goose/issues/6059#issuecomment-3926598596) in [block/goose](https://github.com/block/goose)
-5. 🗣 Commented on [#6607](https://github.com/block/goose/issues/6607#issuecomment-3920288761) in [block/goose](https://github.com/block/goose)
+1. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016657927) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+2. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016621797) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+3. 💪 Opened PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+4. 🗣 Commented on [#21504](https://github.com/google-gemini/gemini-cli/issues/21504#issuecomment-4015202092) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+5. 🎉 Merged PR [#7614](https://github.com/block/goose/pull/7614) in [block/goose](https://github.com/block/goose)
 <!--END_SECTION:activity-->
