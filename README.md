@@ -15,15 +15,15 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 - [feat: add --output-format json flag to goose run command](https://github.com/block/goose/pull/5525) – structured CLI output for scripting and automation
 - [fix: prevent repeated 404 errors when accessing deleted sessions](https://github.com/block/goose/pull/5644) – session recovery flow
 
-[View all goose contributions →](https://github.com/block/goose/pulls?q=is%3Apr+is%3Aclosed+author%3Asheikhlimon)
+[View all contributions →](http://sheikhlimon.vercel.app/contributions)
 
 ### 📜 Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016657927) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-2. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016621797) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-3. 💪 Opened PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-4. 🗣 Commented on [#21504](https://github.com/google-gemini/gemini-cli/issues/21504#issuecomment-4015202092) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-5. 🎉 Merged PR [#7614](https://github.com/block/goose/pull/7614) in [block/goose](https://github.com/block/goose)
+1. 💪 Opened PR [#7766](https://github.com/block/goose/pull/7766) in [block/goose](https://github.com/block/goose)
+2. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016657927) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+3. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016621797) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+4. 💪 Opened PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+5. 🗣 Commented on [#21504](https://github.com/google-gemini/gemini-cli/issues/21504#issuecomment-4015202092) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
