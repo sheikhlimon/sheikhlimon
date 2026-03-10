@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4031739896) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-2. 🗣 Commented on [#7577](https://github.com/block/goose/pull/7577#issuecomment-4028014143) in [block/goose](https://github.com/block/goose)
-3. 💪 Opened PR [#7766](https://github.com/block/goose/pull/7766) in [block/goose](https://github.com/block/goose)
-4. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016657927) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-5. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016621797) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+1. 🎉 Merged PR [#7766](https://github.com/block/goose/pull/7766) in [block/goose](https://github.com/block/goose)
+2. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4031739896) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+3. 🗣 Commented on [#7577](https://github.com/block/goose/pull/7577#issuecomment-4028014143) in [block/goose](https://github.com/block/goose)
+4. 💪 Opened PR [#7766](https://github.com/block/goose/pull/7766) in [block/goose](https://github.com/block/goose)
+5. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4016657927) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
 <!--END_SECTION:activity-->
