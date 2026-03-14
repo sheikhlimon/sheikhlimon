@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/rhel-lightspeed/docs2db/pull/4) in [rhel-lightspeed/docs2db](https://github.com/rhel-lightspeed/docs2db)
-2. 💪 Opened PR [#7891](https://github.com/block/goose/pull/7891) in [block/goose](https://github.com/block/goose)
-3. ❗ Opened issue [#7890](https://github.com/block/goose/issues/7890) in [block/goose](https://github.com/block/goose)
-4. 💪 Opened PR [#7887](https://github.com/block/goose/pull/7887) in [block/goose](https://github.com/block/goose)
-5. ❗ Opened issue [#7886](https://github.com/block/goose/issues/7886) in [block/goose](https://github.com/block/goose)
+1. 💪 Opened PR [#5](https://github.com/rhel-lightspeed/docs2db/pull/5) in [rhel-lightspeed/docs2db](https://github.com/rhel-lightspeed/docs2db)
+2. 💪 Opened PR [#4](https://github.com/rhel-lightspeed/docs2db/pull/4) in [rhel-lightspeed/docs2db](https://github.com/rhel-lightspeed/docs2db)
+3. 💪 Opened PR [#7891](https://github.com/block/goose/pull/7891) in [block/goose](https://github.com/block/goose)
+4. ❗ Opened issue [#7890](https://github.com/block/goose/issues/7890) in [block/goose](https://github.com/block/goose)
+5. 💪 Opened PR [#7887](https://github.com/block/goose/pull/7887) in [block/goose](https://github.com/block/goose)
 <!--END_SECTION:activity-->
