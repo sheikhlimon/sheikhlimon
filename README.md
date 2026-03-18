@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#51586](https://github.com/zed-industries/zed/issues/51586#issuecomment-4078137499) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 🗣 Commented on [#51731](https://github.com/zed-industries/zed/pull/51731#issuecomment-4074057923) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 🗣 Commented on [#51731](https://github.com/zed-industries/zed/pull/51731#issuecomment-4073010836) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. 💪 Opened PR [#51731](https://github.com/zed-industries/zed/pull/51731) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. 🗣 Commented on [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404#issuecomment-4072576230) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+1. 🎉 Merged PR [#16404](https://github.com/podman-desktop/podman-desktop/pull/16404) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+2. 🗣 Commented on [#51586](https://github.com/zed-industries/zed/issues/51586#issuecomment-4078137499) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. 🗣 Commented on [#51731](https://github.com/zed-industries/zed/pull/51731#issuecomment-4074057923) in [zed-industries/zed](https://github.com/zed-industries/zed)
+4. 🗣 Commented on [#51731](https://github.com/zed-industries/zed/pull/51731#issuecomment-4073010836) in [zed-industries/zed](https://github.com/zed-industries/zed)
+5. 💪 Opened PR [#51731](https://github.com/zed-industries/zed/pull/51731) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
