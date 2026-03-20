@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/3) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-2. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4088855484) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-3. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4088837874) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-4. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4088789815) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-5. ❗ Opened issue [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+1. 🗣 Commented on [#8005](https://github.com/block/goose/issues/8005#issuecomment-4097301235) in [block/goose](https://github.com/block/goose)
+2. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/3) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+3. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4088855484) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+4. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4088837874) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+5. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4088789815) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
 <!--END_SECTION:activity-->
