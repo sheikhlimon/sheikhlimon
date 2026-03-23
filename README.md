@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-api/pull/3) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
-2. 🗣 Commented on [#7577](https://github.com/block/goose/pull/7577#issuecomment-4098599975) in [block/goose](https://github.com/block/goose)
-3. 🗣 Commented on [#8005](https://github.com/block/goose/issues/8005#issuecomment-4097301235) in [block/goose](https://github.com/block/goose)
-4. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/3) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-5. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4088855484) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+1. 🎉 Merged PR [#7887](https://github.com/block/goose/pull/7887) in [block/goose](https://github.com/block/goose)
+2. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-api/pull/3) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
+3. 🗣 Commented on [#7577](https://github.com/block/goose/pull/7577#issuecomment-4098599975) in [block/goose](https://github.com/block/goose)
+4. 🗣 Commented on [#8005](https://github.com/block/goose/issues/8005#issuecomment-4097301235) in [block/goose](https://github.com/block/goose)
+5. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/3) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
 <!--END_SECTION:activity-->
