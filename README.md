@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#764](https://github.com/entireio/cli/pull/764) in [entireio/cli](https://github.com/entireio/cli)
-2. ℹ️ Labeled issue [#762](https://github.com/entireio/cli/issues/762) in [entireio/cli](https://github.com/entireio/cli)
-3. ❗ Opened issue [#762](https://github.com/entireio/cli/issues/762) in [entireio/cli](https://github.com/entireio/cli)
-4. 🎉 Merged PR [#7887](https://github.com/block/goose/pull/7887) in [block/goose](https://github.com/block/goose)
-5. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-api/pull/3) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
+1. 🎉 Merged PR [#764](https://github.com/entireio/cli/pull/764) in [entireio/cli](https://github.com/entireio/cli)
+2. 💪 Opened PR [#764](https://github.com/entireio/cli/pull/764) in [entireio/cli](https://github.com/entireio/cli)
+3. ℹ️ Labeled issue [#762](https://github.com/entireio/cli/issues/762) in [entireio/cli](https://github.com/entireio/cli)
+4. ❗ Opened issue [#762](https://github.com/entireio/cli/issues/762) in [entireio/cli](https://github.com/entireio/cli)
+5. 🎉 Merged PR [#7887](https://github.com/block/goose/pull/7887) in [block/goose](https://github.com/block/goose)
 <!--END_SECTION:activity-->
