@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7887](https://github.com/block/goose/pull/7887) in [block/goose](https://github.com/block/goose)
-2. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-api/pull/3) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
-3. 🗣 Commented on [#7577](https://github.com/block/goose/pull/7577#issuecomment-4098599975) in [block/goose](https://github.com/block/goose)
-4. 🗣 Commented on [#8005](https://github.com/block/goose/issues/8005#issuecomment-4097301235) in [block/goose](https://github.com/block/goose)
-5. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/3) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+1. ℹ️ Labeled issue [#762](https://github.com/entireio/cli/issues/762) in [entireio/cli](https://github.com/entireio/cli)
+2. ❗ Opened issue [#762](https://github.com/entireio/cli/issues/762) in [entireio/cli](https://github.com/entireio/cli)
+3. 🎉 Merged PR [#7887](https://github.com/block/goose/pull/7887) in [block/goose](https://github.com/block/goose)
+4. 💪 Opened PR [#3](https://github.com/rhel-lightspeed/docs2db-api/pull/3) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
+5. 🗣 Commented on [#7577](https://github.com/block/goose/pull/7577#issuecomment-4098599975) in [block/goose](https://github.com/block/goose)
 <!--END_SECTION:activity-->
