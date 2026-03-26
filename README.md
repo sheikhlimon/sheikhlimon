@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. 🗣 Commented on [#6607](https://github.com/block/goose/issues/6607#issuecomment-4122618361) in [block/goose](https://github.com/block/goose)
-3. 🎉 Merged PR [#3](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/3) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-4. 🎉 Merged PR [#764](https://github.com/entireio/cli/pull/764) in [entireio/cli](https://github.com/entireio/cli)
-5. 💪 Opened PR [#764](https://github.com/entireio/cli/pull/764) in [entireio/cli](https://github.com/entireio/cli)
+1. 💪 Opened PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+2. 💪 Opened PR [#4](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/4) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+3. 🎉 Merged PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+4. 🗣 Commented on [#6607](https://github.com/block/goose/issues/6607#issuecomment-4122618361) in [block/goose](https://github.com/block/goose)
+5. 🎉 Merged PR [#3](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/3) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
 <!--END_SECTION:activity-->
