@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8130](https://github.com/block/goose/issues/8130#issuecomment-4134559506) in [block/goose](https://github.com/block/goose)
-2. 💪 Opened PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-3. 💪 Opened PR [#4](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/4) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-4. 🎉 Merged PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-5. 🗣 Commented on [#6607](https://github.com/block/goose/issues/6607#issuecomment-4122618361) in [block/goose](https://github.com/block/goose)
+1. 🎉 Merged PR [#7891](https://github.com/block/goose/pull/7891) in [block/goose](https://github.com/block/goose)
+2. 🗣 Commented on [#8130](https://github.com/block/goose/issues/8130#issuecomment-4134559506) in [block/goose](https://github.com/block/goose)
+3. 💪 Opened PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+4. 💪 Opened PR [#4](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/4) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+5. 🎉 Merged PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
