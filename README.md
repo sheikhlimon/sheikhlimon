@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7891](https://github.com/block/goose/pull/7891) in [block/goose](https://github.com/block/goose)
-2. 🗣 Commented on [#8130](https://github.com/block/goose/issues/8130#issuecomment-4134559506) in [block/goose](https://github.com/block/goose)
-3. 💪 Opened PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-4. 💪 Opened PR [#4](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/4) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-5. 🎉 Merged PR [#21516](https://github.com/google-gemini/gemini-cli/pull/21516) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+1. 💪 Opened PR [#43](https://github.com/michaelneale/mesh-llm/pull/43) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
+2. 🎉 Merged PR [#7891](https://github.com/block/goose/pull/7891) in [block/goose](https://github.com/block/goose)
+3. 🗣 Commented on [#8130](https://github.com/block/goose/issues/8130#issuecomment-4134559506) in [block/goose](https://github.com/block/goose)
+4. 💪 Opened PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+5. 💪 Opened PR [#4](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/4) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
 <!--END_SECTION:activity-->
