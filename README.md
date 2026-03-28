@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#43](https://github.com/michaelneale/mesh-llm/pull/43) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
-2. 💪 Opened PR [#43](https://github.com/michaelneale/mesh-llm/pull/43) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
-3. 🎉 Merged PR [#7891](https://github.com/block/goose/pull/7891) in [block/goose](https://github.com/block/goose)
-4. 🗣 Commented on [#8130](https://github.com/block/goose/issues/8130#issuecomment-4134559506) in [block/goose](https://github.com/block/goose)
-5. 💪 Opened PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+1. 💪 Opened PR [#53](https://github.com/michaelneale/mesh-llm/pull/53) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
+2. ❌ Closed PR [#43](https://github.com/michaelneale/mesh-llm/pull/43) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
+3. 💪 Opened PR [#43](https://github.com/michaelneale/mesh-llm/pull/43) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
+4. 🎉 Merged PR [#7891](https://github.com/block/goose/pull/7891) in [block/goose](https://github.com/block/goose)
+5. 🗣 Commented on [#8130](https://github.com/block/goose/issues/8130#issuecomment-4134559506) in [block/goose](https://github.com/block/goose)
 <!--END_SECTION:activity-->
