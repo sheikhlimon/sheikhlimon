@@ -21,9 +21,9 @@ Currently maintaining goose community AUR packages for Arch Linux: [`goose-deskt
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16599](https://github.com/podman-desktop/podman-desktop/pull/16599) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-2. 🎉 Merged PR [#53](https://github.com/michaelneale/mesh-llm/pull/53) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
-3. 🗣 Commented on [#16701](https://github.com/podman-desktop/podman-desktop/issues/16701#issuecomment-4147959406) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-4. 💪 Opened PR [#53](https://github.com/michaelneale/mesh-llm/pull/53) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
-5. ❌ Closed PR [#43](https://github.com/michaelneale/mesh-llm/pull/43) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
+1. 💪 Opened PR [#36](https://github.com/mukulboro/ai-agent-builder/pull/36) in [mukulboro/ai-agent-builder](https://github.com/mukulboro/ai-agent-builder)
+2. 🎉 Merged PR [#16599](https://github.com/podman-desktop/podman-desktop/pull/16599) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+3. 🎉 Merged PR [#53](https://github.com/michaelneale/mesh-llm/pull/53) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
+4. 🗣 Commented on [#16701](https://github.com/podman-desktop/podman-desktop/issues/16701#issuecomment-4147959406) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+5. 💪 Opened PR [#53](https://github.com/michaelneale/mesh-llm/pull/53) in [michaelneale/mesh-llm](https://github.com/michaelneale/mesh-llm)
 <!--END_SECTION:activity-->
