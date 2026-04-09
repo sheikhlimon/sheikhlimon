@@ -1,12 +1,8 @@
-### Backend & AI Infrastructure • Systems Reliability • OSS Contributor
+### Full Stack Developer • APIs & Reliability • OSS Contributor
 
-**[goose Community All-Star](https://github.com/block/goose/discussions/6852) ⭐ (Jan 2026) | Top contributor to goose (Block/AAIF)**
+**[goose Community All-Star](https://github.com/block/goose/discussions/6852) ⭐ (Jan 2026) | Top contributor to goose (AAIF)**
 
-[Blog](https://sheikhlimon.vercel.app/posts) • [Projects](https://sheikhlimon.vercel.app/projects)
-
-I contribute to AI agent infrastructure – fixing keychain race conditions, Linux headless credential failures, and cross-platform CLI stability issues in production codebases used by thousands.
-
-Currently maintaining goose community AUR packages for Arch Linux: [`goose-desktop`](https://aur.archlinux.org/packages/goose-desktop) and [`goose-desktop-bin`](https://aur.archlinux.org/packages/goose-desktop-bin)
+[me](https://sheikhlimon.vercel.app/#about) • [blog](https://sheikhlimon.vercel.app/posts) • [projects](https://sheikhlimon.vercel.app/projects)
 
 ### 🛠 Selected merged PRs:
 
