@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16950](https://github.com/podman-desktop/podman-desktop/pull/16950) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-2. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4221612560) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
-3. 🗣 Commented on [#51731](https://github.com/zed-industries/zed/pull/51731#issuecomment-4193486764) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. ❌ Closed PR [#51731](https://github.com/zed-industries/zed/pull/51731) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. 💪 Opened PR [#16950](https://github.com/podman-desktop/podman-desktop/pull/16950) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+1. 🎉 Merged PR [#155](https://github.com/TailGrids/tailgrids/pull/155) in [TailGrids/tailgrids](https://github.com/TailGrids/tailgrids)
+2. 💪 Opened PR [#155](https://github.com/TailGrids/tailgrids/pull/155) in [TailGrids/tailgrids](https://github.com/TailGrids/tailgrids)
+3. 🎉 Merged PR [#16950](https://github.com/podman-desktop/podman-desktop/pull/16950) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+4. 🗣 Commented on [#16702](https://github.com/podman-desktop/podman-desktop/issues/16702#issuecomment-4221612560) in [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+5. 🗣 Commented on [#51731](https://github.com/zed-industries/zed/pull/51731#issuecomment-4193486764) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
