@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com/mgorabbani/askdb/issues/16#issuecomment-4355929778) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-2. ❗ Opened issue [#16](https://github.com/mgorabbani/askdb/issues/16) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-3. 💪 Opened PR [#15](https://github.com/mgorabbani/askdb/pull/15) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-4. 💪 Opened PR [#14](https://github.com/mgorabbani/askdb/pull/14) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-5. 💪 Opened PR [#4](https://github.com/rhel-lightspeed/docs2db-api/pull/4) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
+1. 💪 Opened PR [#17](https://github.com/mgorabbani/askdb/pull/17) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+2. 🗣 Commented on [#16](https://github.com/mgorabbani/askdb/issues/16#issuecomment-4355929778) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+3. ❗ Opened issue [#16](https://github.com/mgorabbani/askdb/issues/16) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+4. 💪 Opened PR [#15](https://github.com/mgorabbani/askdb/pull/15) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+5. 💪 Opened PR [#14](https://github.com/mgorabbani/askdb/pull/14) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
 <!--END_SECTION:activity-->
