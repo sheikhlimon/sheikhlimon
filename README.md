@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#17](https://github.com/mgorabbani/askdb/pull/17) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-2. 🗣 Commented on [#16](https://github.com/mgorabbani/askdb/issues/16#issuecomment-4355929778) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-3. ❗ Opened issue [#16](https://github.com/mgorabbani/askdb/issues/16) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-4. 💪 Opened PR [#15](https://github.com/mgorabbani/askdb/pull/15) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-5. 💪 Opened PR [#14](https://github.com/mgorabbani/askdb/pull/14) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+1. 🎉 Merged PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+2. 🎉 Merged PR [#4](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/4) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+3. 🎉 Merged PR [#4](https://github.com/rhel-lightspeed/docs2db-api/pull/4) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
+4. 🎉 Merged PR [#3](https://github.com/rhel-lightspeed/docs2db-api/pull/3) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
+5. 🎉 Merged PR [#8](https://github.com/rhel-lightspeed/docs2db/pull/8) in [rhel-lightspeed/docs2db](https://github.com/rhel-lightspeed/docs2db)
 <!--END_SECTION:activity-->
