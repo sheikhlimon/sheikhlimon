@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#12504](https://github.com/opencrvs/opencrvs-core/issues/12504) in [opencrvs/opencrvs-core](https://github.com/opencrvs/opencrvs-core)
-2. 🎉 Merged PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-3. 🎉 Merged PR [#4](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/4) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
-4. 🎉 Merged PR [#4](https://github.com/rhel-lightspeed/docs2db-api/pull/4) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
-5. 🎉 Merged PR [#3](https://github.com/rhel-lightspeed/docs2db-api/pull/3) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
+1. 🗣 Commented on [#10959](https://github.com/opencrvs/opencrvs-core/issues/10959#issuecomment-4364304996) in [opencrvs/opencrvs-core](https://github.com/opencrvs/opencrvs-core)
+2. ❗ Opened issue [#12504](https://github.com/opencrvs/opencrvs-core/issues/12504) in [opencrvs/opencrvs-core](https://github.com/opencrvs/opencrvs-core)
+3. 🎉 Merged PR [#5](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/5) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+4. 🎉 Merged PR [#4](https://github.com/rhel-lightspeed/docs2db-mcp-server/pull/4) in [rhel-lightspeed/docs2db-mcp-server](https://github.com/rhel-lightspeed/docs2db-mcp-server)
+5. 🎉 Merged PR [#4](https://github.com/rhel-lightspeed/docs2db-api/pull/4) in [rhel-lightspeed/docs2db-api](https://github.com/rhel-lightspeed/docs2db-api)
 <!--END_SECTION:activity-->
