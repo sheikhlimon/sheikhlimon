@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1](https://github.com/sheikhlimon/maubot-fedora-contrib/issues/1) in [sheikhlimon/maubot-fedora-contrib](https://github.com/sheikhlimon/maubot-fedora-contrib)
-2. ℹ️ Labeled issue [#1](https://github.com/sheikhlimon/maubot-fedora-contrib/issues/1) in [sheikhlimon/maubot-fedora-contrib](https://github.com/sheikhlimon/maubot-fedora-contrib)
+1. 🗣 Commented on [#14](https://github.com/mgorabbani/askdb/pull/14#issuecomment-4366995083) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+2. 🔒 Closed issue [#1](https://github.com/sheikhlimon/maubot-fedora-contrib/issues/1) in [sheikhlimon/maubot-fedora-contrib](https://github.com/sheikhlimon/maubot-fedora-contrib)
 3. ℹ️ Labeled issue [#1](https://github.com/sheikhlimon/maubot-fedora-contrib/issues/1) in [sheikhlimon/maubot-fedora-contrib](https://github.com/sheikhlimon/maubot-fedora-contrib)
-4. ❗ Opened issue [#1](https://github.com/sheikhlimon/maubot-fedora-contrib/issues/1) in [sheikhlimon/maubot-fedora-contrib](https://github.com/sheikhlimon/maubot-fedora-contrib)
-5. 🗣 Commented on [#10959](https://github.com/opencrvs/opencrvs-core/issues/10959#issuecomment-4364304996) in [opencrvs/opencrvs-core](https://github.com/opencrvs/opencrvs-core)
+4. ℹ️ Labeled issue [#1](https://github.com/sheikhlimon/maubot-fedora-contrib/issues/1) in [sheikhlimon/maubot-fedora-contrib](https://github.com/sheikhlimon/maubot-fedora-contrib)
+5. ❗ Opened issue [#1](https://github.com/sheikhlimon/maubot-fedora-contrib/issues/1) in [sheikhlimon/maubot-fedora-contrib](https://github.com/sheikhlimon/maubot-fedora-contrib)
 <!--END_SECTION:activity-->
