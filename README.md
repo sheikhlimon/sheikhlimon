@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#22](https://github.com/mgorabbani/askdb/pull/22) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-2. 💪 Opened PR [#21](https://github.com/mgorabbani/askdb/pull/21) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-3. 💪 Opened PR [#20](https://github.com/mgorabbani/askdb/pull/20) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-4. 🎉 Merged PR [#17](https://github.com/mgorabbani/askdb/pull/17) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
-5. 🗣 Commented on [#12516](https://github.com/opencrvs/opencrvs-core/pull/12516#issuecomment-4371296859) in [opencrvs/opencrvs-core](https://github.com/opencrvs/opencrvs-core)
+1. 💪 Opened PR [#1](https://github.com/sheikhlimon/daily-tasks-app/pull/1) in [sheikhlimon/daily-tasks-app](https://github.com/sheikhlimon/daily-tasks-app)
+2. 💪 Opened PR [#22](https://github.com/mgorabbani/askdb/pull/22) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+3. 💪 Opened PR [#21](https://github.com/mgorabbani/askdb/pull/21) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+4. 💪 Opened PR [#20](https://github.com/mgorabbani/askdb/pull/20) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
+5. 🎉 Merged PR [#17](https://github.com/mgorabbani/askdb/pull/17) in [mgorabbani/askdb](https://github.com/mgorabbani/askdb)
 <!--END_SECTION:activity-->
