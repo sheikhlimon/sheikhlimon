@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#14](https://github.com/m4hi2/PrepaidMeterAlert/pull/14) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
-2. 💪 Opened PR [#13](https://github.com/m4hi2/PrepaidMeterAlert/pull/13) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
-3. 💪 Opened PR [#12](https://github.com/m4hi2/PrepaidMeterAlert/pull/12) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
-4. 🗣 Commented on [#968](https://github.com/fedora-infra/tahrir/pull/968#issuecomment-4507706195) in [fedora-infra/tahrir](https://github.com/fedora-infra/tahrir)
-5. 🗣 Commented on [#967](https://github.com/fedora-infra/tahrir/issues/967#issuecomment-4498395138) in [fedora-infra/tahrir](https://github.com/fedora-infra/tahrir)
+1. 🎉 Merged PR [#12](https://github.com/m4hi2/PrepaidMeterAlert/pull/12) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
+2. 🎉 Merged PR [#13](https://github.com/m4hi2/PrepaidMeterAlert/pull/13) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
+3. 💪 Opened PR [#14](https://github.com/m4hi2/PrepaidMeterAlert/pull/14) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
+4. 💪 Opened PR [#13](https://github.com/m4hi2/PrepaidMeterAlert/pull/13) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
+5. 💪 Opened PR [#12](https://github.com/m4hi2/PrepaidMeterAlert/pull/12) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
 <!--END_SECTION:activity-->
