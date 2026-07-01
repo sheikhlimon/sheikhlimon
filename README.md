@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2053](https://github.com/fedora-infra/anitya/pull/2053) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-2. 🎉 Merged PR [#2053](https://github.com/fedora-infra/anitya/pull/2053) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-3. 💪 Opened PR [#970](https://github.com/fedora-infra/tahrir/pull/970) in [fedora-infra/tahrir](https://github.com/fedora-infra/tahrir)
+1. 🗣 Commented on [#1778](https://github.com/fedora-infra/anitya/issues/1778#issuecomment-4849031691) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+2. 💪 Opened PR [#2053](https://github.com/fedora-infra/anitya/pull/2053) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+3. 🎉 Merged PR [#2053](https://github.com/fedora-infra/anitya/pull/2053) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
 4. 🎉 Merged PR [#13](https://github.com/m4hi2/PrepaidMeterAlert/pull/13) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
 5. 💪 Opened PR [#14](https://github.com/m4hi2/PrepaidMeterAlert/pull/14) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
 <!--END_SECTION:activity-->
