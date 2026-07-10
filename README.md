@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2054](https://github.com/fedora-infra/anitya/pull/2054) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-2. 🗣 Commented on [#1778](https://github.com/fedora-infra/anitya/issues/1778#issuecomment-4849031691) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-3. 💪 Opened PR [#2053](https://github.com/fedora-infra/anitya/pull/2053) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-4. 🎉 Merged PR [#2053](https://github.com/fedora-infra/anitya/pull/2053) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-5. 💪 Opened PR [#14](https://github.com/m4hi2/PrepaidMeterAlert/pull/14) in [m4hi2/PrepaidMeterAlert](https://github.com/m4hi2/PrepaidMeterAlert)
+1. 🎉 Merged PR [#2054](https://github.com/fedora-infra/anitya/pull/2054) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+2. 💪 Opened PR [#2054](https://github.com/fedora-infra/anitya/pull/2054) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+3. 🗣 Commented on [#1778](https://github.com/fedora-infra/anitya/issues/1778#issuecomment-4849031691) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+4. 💪 Opened PR [#2053](https://github.com/fedora-infra/anitya/pull/2053) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+5. 🎉 Merged PR [#2053](https://github.com/fedora-infra/anitya/pull/2053) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
 <!--END_SECTION:activity-->
