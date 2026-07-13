@@ -17,9 +17,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2057](https://github.com/fedora-infra/anitya/issues/2057) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-2. 🎉 Merged PR [#2056](https://github.com/fedora-infra/anitya/pull/2056) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-3. ❗ Opened issue [#10382](https://github.com/aaif-goose/goose/issues/10382) in [aaif-goose/goose](https://github.com/aaif-goose/goose)
-4. 🗣 Commented on [#2054](https://github.com/fedora-infra/anitya/pull/2054#issuecomment-4936416450) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-5. 💪 Opened PR [#2056](https://github.com/fedora-infra/anitya/pull/2056) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+1. 💪 Opened PR [#10431](https://github.com/aaif-goose/goose/pull/10431) in [aaif-goose/goose](https://github.com/aaif-goose/goose)
+2. ❗ Opened issue [#2057](https://github.com/fedora-infra/anitya/issues/2057) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+3. 🎉 Merged PR [#2056](https://github.com/fedora-infra/anitya/pull/2056) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+4. ❗ Opened issue [#10382](https://github.com/aaif-goose/goose/issues/10382) in [aaif-goose/goose](https://github.com/aaif-goose/goose)
+5. 🗣 Commented on [#2054](https://github.com/fedora-infra/anitya/pull/2054#issuecomment-4936416450) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
 <!--END_SECTION:activity-->
