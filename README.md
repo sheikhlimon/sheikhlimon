@@ -4,8 +4,6 @@
 - 🔌 **Contributor:** [Anitya](https://github.com/fedora-infra/anitya)
 - 📦 **Past Contributions:** [goose](https://github.com/aaif-goose/goose) & [Podman Desktop](https://github.com/podman-desktop/podman-desktop)
 
----
-
 ### 📜 Recent Activity
 
 <!--START_SECTION:activity-->
