@@ -8,9 +8,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2069](https://github.com/fedora-infra/anitya/pull/2069) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-2. ❌ Closed PR [#7134](https://github.com/basecamp/omarchy/pull/7134) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-3. 🗣 Commented on [#7134](https://github.com/basecamp/omarchy/pull/7134#issuecomment-5307671953) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-4. ❗ Opened issue [#1](https://github.com/SaifOmar/WorkspaceIcons/issues/1) in [SaifOmar/WorkspaceIcons](https://github.com/SaifOmar/WorkspaceIcons)
-5. 💪 Opened PR [#7134](https://github.com/basecamp/omarchy/pull/7134) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. 🗣 Commented on [#1](https://github.com/SaifOmar/WorkspaceIcons/issues/1#issuecomment-5318271106) in [SaifOmar/WorkspaceIcons](https://github.com/SaifOmar/WorkspaceIcons)
+2. 🎉 Merged PR [#2069](https://github.com/fedora-infra/anitya/pull/2069) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+3. ❌ Closed PR [#7134](https://github.com/basecamp/omarchy/pull/7134) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+4. 🗣 Commented on [#7134](https://github.com/basecamp/omarchy/pull/7134#issuecomment-5307671953) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+5. ❗ Opened issue [#1](https://github.com/SaifOmar/WorkspaceIcons/issues/1) in [SaifOmar/WorkspaceIcons](https://github.com/SaifOmar/WorkspaceIcons)
 <!--END_SECTION:activity-->
