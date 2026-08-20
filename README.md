@@ -8,9 +8,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#848](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/848#issuecomment-5348999580) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-2. ℹ️ Labeled issue [#848](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/848) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-3. ❗ Opened issue [#848](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/848) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-4. 🗣 Commented on [#1](https://github.com/SaifOmar/WorkspaceIcons/issues/1#issuecomment-5318271106) in [SaifOmar/WorkspaceIcons](https://github.com/SaifOmar/WorkspaceIcons)
-5. 🎉 Merged PR [#2069](https://github.com/fedora-infra/anitya/pull/2069) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+1. 🗣 Commented on [#848](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/848#issuecomment-5352384101) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+2. 🗣 Commented on [#848](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/848#issuecomment-5348999580) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+3. ℹ️ Labeled issue [#848](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/848) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+4. ❗ Opened issue [#848](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/848) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+5. 🗣 Commented on [#1](https://github.com/SaifOmar/WorkspaceIcons/issues/1#issuecomment-5318271106) in [SaifOmar/WorkspaceIcons](https://github.com/SaifOmar/WorkspaceIcons)
 <!--END_SECTION:activity-->
