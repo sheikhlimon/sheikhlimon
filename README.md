@@ -8,9 +8,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357#issuecomment-5381784327) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-2. 🗣 Commented on [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357#issuecomment-5381123185) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-3. 🗣 Commented on [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357#issuecomment-5381021715) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-4. ❗ Opened issue [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-5. 🗣 Commented on [#1152](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1152#issuecomment-5368793610) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+1. 🔒 Closed issue [#11499](https://github.com/aaif-goose/goose/issues/11499) in [aaif-goose/goose](https://github.com/aaif-goose/goose)
+2. 🗣 Commented on [#11499](https://github.com/aaif-goose/goose/issues/11499#issuecomment-5382807806) in [aaif-goose/goose](https://github.com/aaif-goose/goose)
+3. ❗ Opened issue [#11499](https://github.com/aaif-goose/goose/issues/11499) in [aaif-goose/goose](https://github.com/aaif-goose/goose)
+4. 🗣 Commented on [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357#issuecomment-5381784327) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+5. 🗣 Commented on [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357#issuecomment-5381123185) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
 <!--END_SECTION:activity-->
