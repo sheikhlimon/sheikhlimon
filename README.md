@@ -8,9 +8,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-2. 🗣 Commented on [#1152](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1152#issuecomment-5368793610) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-3. ❗ Opened issue [#1185](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1185) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-4. ❗ Opened issue [#1152](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1152) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-5. 💪 Opened PR [#645](https://github.com/outreachy/website/pull/645) in [outreachy/website](https://github.com/outreachy/website)
+1. 🗣 Commented on [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357#issuecomment-5381021715) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+2. ❗ Opened issue [#1357](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1357) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+3. 🗣 Commented on [#1152](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1152#issuecomment-5368793610) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+4. ❗ Opened issue [#1185](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1185) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+5. ❗ Opened issue [#1152](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1152) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
 <!--END_SECTION:activity-->
