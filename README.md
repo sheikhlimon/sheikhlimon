@@ -1,4 +1,4 @@
-**Open Source Engineer** focused on developer tools, backend systems, and open-source infrastructure. Leveraging AI to build and ship faster.
+**Open Source Developer** focused on developer tools, backend systems, and open-source infrastructure. Leveraging AI to build and ship faster.
 
 - 🛠️ **Maintainer:** Fedora Apps ([Packager Dashboard](https://forge.fedoraproject.org/apps/packager_dashboard), [Oraculum](https://forge.fedoraproject.org/apps/oraculum))
 - 🔌 **Contributor:** [Anitya](https://github.com/fedora-infra/anitya)
