@@ -8,9 +8,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/sheikhlimon/infra-scope/pull/1) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
-2. 💪 Opened PR [#1](https://github.com/sheikhlimon/infra-scope/pull/1) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
-3. ❗ Opened issue [#1911](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1911) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
-4. ❗ Opened issue [#30](https://github.com/huacnlee/omamail/issues/30) in [huacnlee/omamail](https://github.com/huacnlee/omamail)
-5. 🔒 Closed issue [#11499](https://github.com/aaif-goose/goose/issues/11499) in [aaif-goose/goose](https://github.com/aaif-goose/goose)
+1. 🚀 Published release [v1.0.0](https://github.com/sheikhlimon/infra-scope/releases/tag/v1.0.0) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
+2. 🎉 Merged PR [#1](https://github.com/sheikhlimon/infra-scope/pull/1) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
+3. 💪 Opened PR [#1](https://github.com/sheikhlimon/infra-scope/pull/1) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
+4. ❗ Opened issue [#1911](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1911) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+5. ❗ Opened issue [#30](https://github.com/huacnlee/omamail/issues/30) in [huacnlee/omamail](https://github.com/huacnlee/omamail)
 <!--END_SECTION:activity-->
