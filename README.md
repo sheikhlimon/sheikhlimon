@@ -11,6 +11,6 @@
 1. 🚀 Published release [v1.0.0](https://github.com/sheikhlimon/infra-scope/releases/tag/v1.0.0) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
 2. 🎉 Merged PR [#1](https://github.com/sheikhlimon/infra-scope/pull/1) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
 3. 💪 Opened PR [#1](https://github.com/sheikhlimon/infra-scope/pull/1) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
-4. ❗ Opened issue [#1911](https://github.com/HANCORE-linux/omarchy-plugin-marketplace/issues/1911) in [HANCORE-linux/omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace)
+4. ❗ Opened issue [#1911](https://github.com/omacom/omarchy-plugin-marketplace/issues/1911) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 5. ❗ Opened issue [#30](https://github.com/huacnlee/omamail/issues/30) in [huacnlee/omamail](https://github.com/huacnlee/omamail)
 <!--END_SECTION:activity-->
