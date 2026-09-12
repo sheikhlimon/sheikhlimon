@@ -8,9 +8,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2074](https://github.com/fedora-infra/anitya/issues/2074#issuecomment-5648058468) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-2. 💪 Opened PR [#2077](https://github.com/fedora-infra/anitya/pull/2077) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-3. 💪 Opened PR [#2076](https://github.com/fedora-infra/anitya/pull/2076) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-4. 🚀 Published release [v1.0.0](https://github.com/sheikhlimon/infra-scope/releases/tag/v1.0.0) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
-5. 🎉 Merged PR [#1](https://github.com/sheikhlimon/infra-scope/pull/1) in [sheikhlimon/infra-scope](https://github.com/sheikhlimon/infra-scope)
+1. 🗣 Commented on [#2077](https://github.com/fedora-infra/anitya/pull/2077#issuecomment-5648525874) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+2. 🗣 Commented on [#2074](https://github.com/fedora-infra/anitya/issues/2074#issuecomment-5648500165) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+3. 🗣 Commented on [#2075](https://github.com/fedora-infra/anitya/issues/2075#issuecomment-5648315490) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+4. 🗣 Commented on [#2075](https://github.com/fedora-infra/anitya/issues/2075#issuecomment-5648311483) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+5. 🗣 Commented on [#2074](https://github.com/fedora-infra/anitya/issues/2074#issuecomment-5648058468) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
 <!--END_SECTION:activity-->
