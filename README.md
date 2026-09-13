@@ -1,8 +1,8 @@
-**Open Source Developer** focused on developer tools, backend systems, and open-source infrastructure. Leveraging AI to build and ship faster.
+**Open-source developer** focused on developer tooling, backend systems, and Linux infrastructure.
 
 - 🛠️ **Maintainer:** Fedora Apps ([Packager Dashboard](https://forge.fedoraproject.org/apps/packager_dashboard), [Oraculum](https://forge.fedoraproject.org/apps/oraculum))
 - 🔌 **Contributor:** [Anitya](https://github.com/fedora-infra/anitya)
-- 📦 **Past Contributions:** [goose](https://github.com/aaif-goose/goose) & [Podman Desktop](https://github.com/podman-desktop/podman-desktop)
+- 📦 **Other Contributions:** [goose](https://github.com/aaif-goose/goose) & [Podman Desktop](https://github.com/podman-desktop/podman-desktop)
 
 ### 📜 Recent Activity
 
