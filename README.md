@@ -1,8 +1,10 @@
-**Open-source developer** focused on developer tooling, backend systems, and Linux infrastructure.
+**Open-source developer** focused on developer tooling, backend systems, and Linux infrastructure
 
 - 🛠️ **Maintainer:** Fedora Apps ([Packager Dashboard](https://forge.fedoraproject.org/apps/packager_dashboard), [Oraculum](https://forge.fedoraproject.org/apps/oraculum))
 - 🔌 **Contributor:** [Anitya](https://github.com/fedora-infra/anitya)
 - 📦 **Other Contributions:** [goose](https://github.com/aaif-goose/goose) & [Podman Desktop](https://github.com/podman-desktop/podman-desktop)
+
+[View all contributions across GitHub & Fedora Forge →](https://sheikhlimon.vercel.app/contributions)
 
 ### 📜 Recent Activity
 
