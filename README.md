@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1448](https://github.com/fedora-infra/anitya/issues/1448#issuecomment-5707770453) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-2. 🗣 Commented on [#2081](https://github.com/fedora-infra/anitya/issues/2081#issuecomment-5699144159) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-3. 🗣 Commented on [#2081](https://github.com/fedora-infra/anitya/issues/2081#issuecomment-5698284664) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-4. 💪 Opened PR [#2084](https://github.com/fedora-infra/anitya/pull/2084) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-5. 🗣 Commented on [#2075](https://github.com/fedora-infra/anitya/issues/2075#issuecomment-5697841590) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+1. 🗣 Commented on [#1540](https://github.com/fedora-infra/anitya/issues/1540#issuecomment-5710258337) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+2. 🗣 Commented on [#1448](https://github.com/fedora-infra/anitya/issues/1448#issuecomment-5707770453) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+3. 🗣 Commented on [#2081](https://github.com/fedora-infra/anitya/issues/2081#issuecomment-5699144159) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+4. 🗣 Commented on [#2081](https://github.com/fedora-infra/anitya/issues/2081#issuecomment-5698284664) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+5. 💪 Opened PR [#2084](https://github.com/fedora-infra/anitya/pull/2084) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
 <!--END_SECTION:activity-->
