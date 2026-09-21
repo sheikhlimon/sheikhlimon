@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2095](https://github.com/fedora-infra/anitya/pull/2095) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-2. 🎉 Merged PR [#2094](https://github.com/fedora-infra/anitya/pull/2094) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-3. 🎉 Merged PR [#2093](https://github.com/fedora-infra/anitya/pull/2093) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-4. 💪 Opened PR [#2094](https://github.com/fedora-infra/anitya/pull/2094) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-5. 🗣 Commented on [#2092](https://github.com/fedora-infra/anitya/pull/2092#issuecomment-5751528403) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+1. 🗣 Commented on [#7598](https://github.com/omacom/omarchy/pull/7598#issuecomment-5768086674) in [omacom/omarchy](https://github.com/omacom/omarchy)
+2. 🗣 Commented on [#8633](https://github.com/omacom/omarchy/pull/8633#issuecomment-5768086380) in [omacom/omarchy](https://github.com/omacom/omarchy)
+3. 🗣 Commented on [#11235](https://github.com/omacom/omarchy/pull/11235#issuecomment-5768086025) in [omacom/omarchy](https://github.com/omacom/omarchy)
+4. 🗣 Commented on [#12196](https://github.com/omacom/omarchy/pull/12196#issuecomment-5768085623) in [omacom/omarchy](https://github.com/omacom/omarchy)
+5. 💪 Opened PR [#2095](https://github.com/fedora-infra/anitya/pull/2095) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
 <!--END_SECTION:activity-->
