@@ -1,4 +1,4 @@
-**Open-source developer** focused on developer tooling, backend systems, and Linux infrastructure
+**Open-source developer** focused on developer tooling, full-stack systems, and Linux infrastructure. I specialize in bridging the gap between web applications and low-level system automation
 
 - 🛠️ **Maintainer:** Fedora Apps ([Packager Dashboard](https://forge.fedoraproject.org/apps/packager_dashboard), [Oraculum](https://forge.fedoraproject.org/apps/oraculum))
 - 🔌 **Contributor:** [Anitya](https://github.com/fedora-infra/anitya)
