@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19777](https://github.com/kestra-io/kestra/issues/19777#issuecomment-5799655116) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-2. 🗣 Commented on [#19777](https://github.com/kestra-io/kestra/issues/19777#issuecomment-5798813707) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-3. ❗ Opened issue [#19777](https://github.com/kestra-io/kestra/issues/19777) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-4. 🗣 Commented on [#5782](https://github.com/kestra-io/docs/issues/5782#issuecomment-5797436663) in [kestra-io/docs](https://github.com/kestra-io/docs)
-5. ❗ Opened issue [#5782](https://github.com/kestra-io/docs/issues/5782) in [kestra-io/docs](https://github.com/kestra-io/docs)
+1. 🗣 Commented on [#19793](https://github.com/kestra-io/kestra/pull/19793#issuecomment-5813785632) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+2. 💪 Opened PR [#19793](https://github.com/kestra-io/kestra/pull/19793) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+3. 🎉 Merged PR [#5777](https://github.com/kestra-io/docs/pull/5777) in [kestra-io/docs](https://github.com/kestra-io/docs)
+4. 🗣 Commented on [#19777](https://github.com/kestra-io/kestra/issues/19777#issuecomment-5799655116) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+5. 🗣 Commented on [#19777](https://github.com/kestra-io/kestra/issues/19777#issuecomment-5798813707) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
 <!--END_SECTION:activity-->
