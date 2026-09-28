@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5818](https://github.com/kestra-io/docs/pull/5818#issuecomment-5867997528) in [kestra-io/docs](https://github.com/kestra-io/docs)
-2. 🗣 Commented on [#5818](https://github.com/kestra-io/docs/pull/5818#issuecomment-5866750273) in [kestra-io/docs](https://github.com/kestra-io/docs)
-3. 🗣 Commented on [#19613](https://github.com/kestra-io/kestra/issues/19613#issuecomment-5865794961) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-4. 🗣 Commented on [#5818](https://github.com/kestra-io/docs/pull/5818#issuecomment-5863054629) in [kestra-io/docs](https://github.com/kestra-io/docs)
-5. 💪 Opened PR [#5818](https://github.com/kestra-io/docs/pull/5818) in [kestra-io/docs](https://github.com/kestra-io/docs)
+1. 🗣 Commented on [#2098](https://github.com/fedora-infra/anitya/issues/2098#issuecomment-5874366661) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+2. 🗣 Commented on [#2098](https://github.com/fedora-infra/anitya/issues/2098#issuecomment-5871089555) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+3. 🗣 Commented on [#5818](https://github.com/kestra-io/docs/pull/5818#issuecomment-5867997528) in [kestra-io/docs](https://github.com/kestra-io/docs)
+4. 🗣 Commented on [#5818](https://github.com/kestra-io/docs/pull/5818#issuecomment-5866750273) in [kestra-io/docs](https://github.com/kestra-io/docs)
+5. 🗣 Commented on [#19613](https://github.com/kestra-io/kestra/issues/19613#issuecomment-5865794961) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
 <!--END_SECTION:activity-->
