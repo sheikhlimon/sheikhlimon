@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#384](https://github.com/kestra-io/blueprints/pull/384) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-2. 🔒 Closed issue [#382](https://github.com/kestra-io/blueprints/issues/382) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-3. 💪 Opened PR [#383](https://github.com/kestra-io/blueprints/pull/383) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-4. ❗ Opened issue [#382](https://github.com/kestra-io/blueprints/issues/382) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-5. 🗣 Commented on [#20001](https://github.com/kestra-io/kestra/pull/20001#issuecomment-5968641721) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+1. 🗣 Commented on [#37](https://github.com/kestra-io/plugin-flink/issues/37#issuecomment-5979612367) in [kestra-io/plugin-flink](https://github.com/kestra-io/plugin-flink)
+2. 💪 Opened PR [#407](https://github.com/kestra-io/blueprints/pull/407) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+3. 💪 Opened PR [#403](https://github.com/kestra-io/blueprints/pull/403) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+4. 💪 Opened PR [#402](https://github.com/kestra-io/blueprints/pull/402) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+5. 🎉 Merged PR [#383](https://github.com/kestra-io/blueprints/pull/383) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
 <!--END_SECTION:activity-->
