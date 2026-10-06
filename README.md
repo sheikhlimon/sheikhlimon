@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#502](https://github.com/kestra-io/blueprints/pull/502) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-2. ❌ Closed PR [#505](https://github.com/kestra-io/blueprints/pull/505) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-3. 🗣 Commented on [#505](https://github.com/kestra-io/blueprints/pull/505#issuecomment-5995225890) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-4. ❌ Closed PR [#504](https://github.com/kestra-io/blueprints/pull/504) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-5. 🗣 Commented on [#504](https://github.com/kestra-io/blueprints/pull/504#issuecomment-5995224674) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+1. 💪 Opened PR [#2106](https://github.com/fedora-infra/anitya/pull/2106) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+2. 🎉 Merged PR [#502](https://github.com/kestra-io/blueprints/pull/502) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+3. ❌ Closed PR [#505](https://github.com/kestra-io/blueprints/pull/505) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+4. 🗣 Commented on [#505](https://github.com/kestra-io/blueprints/pull/505#issuecomment-5995225890) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+5. ❌ Closed PR [#504](https://github.com/kestra-io/blueprints/pull/504) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
 <!--END_SECTION:activity-->
