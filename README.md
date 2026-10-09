@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10498](https://github.com/omacom/omarchy-plugin-marketplace/issues/10498#issuecomment-6069342408) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-2. 🎉 Merged PR [#621](https://github.com/kestra-io/blueprints/pull/621) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-3. 🎉 Merged PR [#620](https://github.com/kestra-io/blueprints/pull/620) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-4. 💪 Opened PR [#2125](https://github.com/fedora-infra/anitya/pull/2125) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-5. ❗ Opened issue [#10498](https://github.com/omacom/omarchy-plugin-marketplace/issues/10498) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+1. 🗣 Commented on [#10498](https://github.com/omacom/omarchy-plugin-marketplace/issues/10498#issuecomment-6075116142) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+2. 💪 Opened PR [#784](https://github.com/kestra-io/blueprints/pull/784) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+3. 💪 Opened PR [#783](https://github.com/kestra-io/blueprints/pull/783) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+4. 🗣 Commented on [#10498](https://github.com/omacom/omarchy-plugin-marketplace/issues/10498#issuecomment-6069342408) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+5. 🎉 Merged PR [#621](https://github.com/kestra-io/blueprints/pull/621) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
 <!--END_SECTION:activity-->
