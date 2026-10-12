@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#945](https://github.com/kestra-io/blueprints/pull/945) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-2. 💪 Opened PR [#941](https://github.com/kestra-io/blueprints/pull/941) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-3. 💪 Opened PR [#940](https://github.com/kestra-io/blueprints/pull/940) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-4. 💪 Opened PR [#939](https://github.com/kestra-io/blueprints/pull/939) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-5. 💪 Opened PR [#938](https://github.com/kestra-io/blueprints/pull/938) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+1. 🎉 Merged PR [#939](https://github.com/kestra-io/blueprints/pull/939) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+2. 💪 Opened PR [#1115](https://github.com/kestra-io/blueprints/pull/1115) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+3. 💪 Opened PR [#1114](https://github.com/kestra-io/blueprints/pull/1114) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+4. 🎉 Merged PR [#941](https://github.com/kestra-io/blueprints/pull/941) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+5. 🎉 Merged PR [#940](https://github.com/kestra-io/blueprints/pull/940) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
 <!--END_SECTION:activity-->
