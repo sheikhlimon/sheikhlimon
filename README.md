@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1251](https://github.com/kestra-io/blueprints/pull/1251) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-2. 💪 Opened PR [#1249](https://github.com/kestra-io/blueprints/pull/1249) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-3. ❌ Closed PR [#645](https://github.com/outreachy/website/pull/645) in [outreachy/website](https://github.com/outreachy/website)
-4. ❌ Closed PR [#644](https://github.com/outreachy/website/pull/644) in [outreachy/website](https://github.com/outreachy/website)
-5. 🎉 Merged PR [#1114](https://github.com/kestra-io/blueprints/pull/1114) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+1. 🗣 Commented on [#20001](https://github.com/kestra-io/kestra/pull/20001#issuecomment-6148234273) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+2. 🎉 Merged PR [#1249](https://github.com/kestra-io/blueprints/pull/1249) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+3. 🎉 Merged PR [#1251](https://github.com/kestra-io/blueprints/pull/1251) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+4. 💪 Opened PR [#1251](https://github.com/kestra-io/blueprints/pull/1251) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+5. 💪 Opened PR [#1249](https://github.com/kestra-io/blueprints/pull/1249) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
 <!--END_SECTION:activity-->
