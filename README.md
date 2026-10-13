@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#645](https://github.com/outreachy/website/pull/645) in [outreachy/website](https://github.com/outreachy/website)
-2. ❌ Closed PR [#644](https://github.com/outreachy/website/pull/644) in [outreachy/website](https://github.com/outreachy/website)
-3. 🎉 Merged PR [#1114](https://github.com/kestra-io/blueprints/pull/1114) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-4. 🎉 Merged PR [#1115](https://github.com/kestra-io/blueprints/pull/1115) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
-5. 🎉 Merged PR [#939](https://github.com/kestra-io/blueprints/pull/939) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+1. 💪 Opened PR [#1251](https://github.com/kestra-io/blueprints/pull/1251) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+2. 💪 Opened PR [#1249](https://github.com/kestra-io/blueprints/pull/1249) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
+3. ❌ Closed PR [#645](https://github.com/outreachy/website/pull/645) in [outreachy/website](https://github.com/outreachy/website)
+4. ❌ Closed PR [#644](https://github.com/outreachy/website/pull/644) in [outreachy/website](https://github.com/outreachy/website)
+5. 🎉 Merged PR [#1114](https://github.com/kestra-io/blueprints/pull/1114) in [kestra-io/blueprints](https://github.com/kestra-io/blueprints)
 <!--END_SECTION:activity-->
