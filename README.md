@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#20001](https://github.com/kestra-io/kestra/pull/20001#issuecomment-6819861776) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-2. ❌ Closed PR [#20001](https://github.com/kestra-io/kestra/pull/20001) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-3. 🎉 Merged PR [#2169](https://github.com/fedora-infra/anitya/pull/2169) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-4. 🎉 Merged PR [#2160](https://github.com/fedora-infra/anitya/pull/2160) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-5. 💪 Opened PR [#2169](https://github.com/fedora-infra/anitya/pull/2169) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+1. ❗ Opened issue [#2193](https://github.com/fedora-infra/anitya/issues/2193) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+2. 💪 Opened PR [#2192](https://github.com/fedora-infra/anitya/pull/2192) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+3. ❗ Opened issue [#2191](https://github.com/fedora-infra/anitya/issues/2191) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
+4. 🗣 Commented on [#20001](https://github.com/kestra-io/kestra/pull/20001#issuecomment-6819861776) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+5. ❌ Closed PR [#20001](https://github.com/kestra-io/kestra/pull/20001) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
 <!--END_SECTION:activity-->
